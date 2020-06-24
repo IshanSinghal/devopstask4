@@ -15,4 +15,4 @@ spec:
     spec:
      containers:
       - name: t4con
-        image: ishandsce/kubectl:latest
+        image: ishandsce/apache-webserver-php:latest
